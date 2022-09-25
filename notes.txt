@@ -1,0 +1,6 @@
+- GC collection gen 1, 2 and 3
+- Int 32 vs 16
+- Data types
+- Async tasks
+- Heap size
+- Threading #
